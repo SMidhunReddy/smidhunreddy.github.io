@@ -81,6 +81,13 @@ nav.navbar ul li a:hover {
     max-width: 100%;
     height: auto;
 }
+.Certificates {
+    text-align: center;
+}
+.Certificates img {
+    max-width: 100%;
+    height: auto;
+}
 .get-quote {
     display: inline-block;
     padding: 10px 20px;
